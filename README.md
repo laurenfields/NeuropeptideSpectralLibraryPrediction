@@ -498,10 +498,7 @@ Example: PEPTIDE[UNIMOD:35]K (not PEPTIDE(ox)K)
 ## Citation
 
 If you use this toolkit in your research, please cite:
-
-```
-[Your publication details here]
-```
+(citation to be added)
 
 Additionally, please cite the relevant prediction models:
 
@@ -512,31 +509,6 @@ Additionally, please cite the relevant prediction models:
 - **Koina**: Wilhelm et al. (2021) bioRxiv
 - **DIA-NN**: Demichev et al. (2020) Nature Methods
 
-## License
-
-[Specify your license here, e.g., MIT, GPL, Apache 2.0]
-
-## Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Submit a pull request
-
-## Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact: [your email or contact information]
-
-## Acknowledgments
-
-- Koina team for providing the prediction server infrastructure
-- DIA-NN team for the excellent DIA analysis software
-- OpenMS team for mass spectrometry data handling tools
-- All developers of the prediction models integrated in this toolkit
 
 ---
 
